@@ -51,7 +51,7 @@ export function Footer(){
                             <p className='mb-4'>Cuidando do seu melhor amigo com amor e dedicação.</p>
                             <a 
                             target='_blank'
-                            href={'https://wa.me/5591984536649?text=Olá, vim pelo site e gostaria de mais informações.'}
+                            href={'https://wa.me/559140028922?text=Olá, vim pelo site e gostaria de mais informações.'}
                             className="bg-green-500 px-5 py-2 rounded-md font-semibold 
                             flex items-center justify-center w-fit gap-2">
                             
@@ -63,24 +63,24 @@ export function Footer(){
                         <div>
                             <h3 className='text-2xl font-semibold mb-2'>Contatos</h3>
                             <p>Email: teste@teste.com</p>
-                            <p>Telefone: (xx) 4002-8922</p>
+                            <p>Telefone: (91) 4002-8922</p>
                             <p>Rua X, centro, Belém | PA</p>
                         </div>
 
                         <div>
                             <h3 className='text-2xl font-semibold mb-2'>Redes sociais</h3>
                             <div className='flex gap-4'>
-                                <a href="#"
+                                <a href="https://www.facebook.com/"
                                 target='_blank'
                                 >
                                     <FacebookLogoIcon className='w-8 h-8'/>
                                 </a>
-                                <a href="#"
+                                <a href="https://www.instagram.com/"
                                 target='_blank'
                                 >
                                     <InstagramLogoIcon className='w-8 h-8'/>
                                 </a>
-                                <a href="#"
+                                <a href="https://www.youtube.com/"
                                 target='_blank'
                                 >
                                     <YoutubeLogoIcon className='w-8 h-8'/>
