@@ -26,7 +26,7 @@ export function About(){
                  overflow-hidden rounded-lg border-white">
                     <Image
                     src={about2Img}
-                    alt="Foto do cao"
+                    alt="Foto do gato"
                     fill
                     quality={100}
                     priority 
